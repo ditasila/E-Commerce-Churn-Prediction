@@ -2,6 +2,17 @@
 
 This project builds a machine learning model to predict customer churn for an e-commerce company. The goal is to improve customer retention by identifying high-risk customers and implementing targeted retention strategies.
 
+
+## Project Overview
+
+- **Data Source**
+The data used for this project is publicly available on Kaggle: [E-Commerce Customer Churn Analysis and Prediction](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction).
+- **Presentation**: [E-Commerce Churn Story in Tableau](https://public.tableau.com/views/E-COMMERCECHURNDASHBOARD/Story?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **Dashboard**: [E-Commerce Churn Dashboard in Tableau](https://public.tableau.com/views/E-COMMERCECHURNDASHBOARD/Dashboard1?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **Model Final**: []()
+- **Data with predict**: []()
+
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
